@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Minh Ngo (full name in Vietnamese is Ngô Quang Minh). Currently I'm working as a data scientist. I'm interested in building tiny tiny deep learning models, and apply them to solve problems in computer vision and natural language processing.
+My name is Minh Ngo (full name in Vietnamese is Ngô Quang Minh). I'm interested in building tiny tiny deep learning models, and apply them to solve problems in computer vision and natural language processing.
