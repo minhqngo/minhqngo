@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 My name is Minh Ngo (full name in Vietnamese is Ngô Quang Minh). I'm interested in building tiny tiny deep learning models, and apply them to solve problems in computer vision and natural language processing.
 
+<!--
 [![Minh Ngo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhqngo)](https://github.com/anuraghazra/github-readme-stats)
+-->
