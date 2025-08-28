@@ -20,3 +20,5 @@ My name is Minh Ngo (full name in Vietnamese is Ngô Quang Minh). I'm interested
 <!--
 [![Minh Ngo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhqngo)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhqngo)](https://github.com/anuraghazra/github-readme-stats)
